@@ -63,8 +63,5 @@
 
 ---
 
-#  Visit Count
-![](https://komarev.com/ghpvc/?username=Pravalikapullabatla12&label=Profile+Views&color=blue&style=flat-square)
-
----
-
+# 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Pravalikapullabatla12&label=Profile+Views&color=2E86C1&style=for-the-badge)
