@@ -57,9 +57,11 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Pravalikapullabatla12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pravalikapullabatla12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravalikapullabatla12&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Pravalikapullabatla12&show_icons=true&title_color=2E86C1&text_color=E5E5E5&icon_color=2E86C1&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Pravalikapullabatla12&theme=github-dark-blue&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravalikapullabatla12&title_color=2E86C1&text_color=E5E5E5&bg_color=0D1117&hide_border=true&layout=compact)
 
 ---
 
