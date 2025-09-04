@@ -63,4 +63,8 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Pravalikapullabatla12&icon=0&color=0)](https://visitcount.itsvg.in)
+#  Visit Count
+![](https://komarev.com/ghpvc/?username=Pravalikapullabatla12&label=Profile+Views&color=blue&style=flat-square)
+
+---
+
